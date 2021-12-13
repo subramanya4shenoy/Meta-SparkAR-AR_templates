@@ -10,10 +10,10 @@ variety of models and 3D/2D objects to make use of.
 
 Here is the quick tutorials by Spark team to get started.
 https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/navigating-the-interface#the-simulator 
-Above link shows you all the steps to setting up and gettng started with AR. 
+<br>Above link shows you all the steps to setting up and gettng started with AR. 
 
 I will be listing below some of my AR works. as projects are completed.
 - Lion king Rafiki face skin - PUBLISHED
-https://youtu.be/t8Na4X-u1So
+<a href="https://www.youtube.com/watch?v=t8Na4X-u1So"><img src="Instagram_filter_Rafiki_filter.gif"/></a>
 
 [On going project]
