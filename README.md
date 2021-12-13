@@ -13,6 +13,7 @@ https://sparkar.facebook.com/ar-studio/learn/articles/fundamentals/navigating-th
 Above link shows you all the steps to setting up and gettng started with AR. 
 
 I will be listing below some of my AR works. as projects are completed.
-- Lion king Rafiki face skin - (under review)
+- Lion king Rafiki face skin - PUBLISHED
+https://youtu.be/t8Na4X-u1So
 
 [On going project]
